@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    padding: 1rem;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  nav a {
+    margin-right: 1rem;
+  }
